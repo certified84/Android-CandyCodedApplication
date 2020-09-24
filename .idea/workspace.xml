@@ -9,10 +9,11 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
+    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="Completed module 5">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -191,23 +192,32 @@
       <option name="project" value="LOCAL" />
       <updated>1600988476604</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Completed module 4">
+      <created>1600988822980</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600988822980</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Completed module 2" />
     <MESSAGE value="Completed module 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed module 3" />
+    <MESSAGE value="Completed module 4" />
+    <MESSAGE value="Completed module 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed module 5" />
   </component>
   <component name="WindowStateProjectService">
     <state x="46" y="119" key="#PSD" timestamp="1600985743063">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="46" y="119" key="#PSD/0.0.1366.768@0.0.1366.768" timestamp="1600985743063" />
-    <state x="326" y="91" key="#com.intellij.ide.util.MemberChooser" timestamp="1600986966995">
+    <state x="326" y="91" key="#com.intellij.ide.util.MemberChooser" timestamp="1600988952262">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="326" y="91" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1600986966995" />
+    <state x="326" y="91" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1600988952262" />
     <state x="375" y="273" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1600985669088">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -216,10 +226,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="112" y="39" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.0.1366.768@0.0.1366.768" timestamp="1600985650624" />
-    <state x="356" y="0" key="CommitChangelistDialog2" timestamp="1600988474957">
+    <state x="356" y="0" key="CommitChangelistDialog2" timestamp="1600989317382">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="356" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1600988474957" />
+    <state x="356" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1600989317382" />
     <state x="312" y="129" key="FileChooserDialogImpl" timestamp="1600985708245">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -244,9 +254,9 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="33" y="30" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1600985710322" />
-    <state x="113" y="116" key="Vcs.Push.Dialog.v2" timestamp="1600988484306">
+    <state x="113" y="116" key="Vcs.Push.Dialog.v2" timestamp="1600988838137">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="113" y="116" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1600988484306" />
+    <state x="113" y="116" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1600988838137" />
   </component>
 </project>
